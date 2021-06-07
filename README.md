@@ -1,1 +1,1 @@
-# Forecasting-the-temperature
+# Forecasting the temperature in Astana with parsed data
